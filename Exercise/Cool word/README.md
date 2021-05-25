@@ -5,7 +5,7 @@ For example, the word “ada” is cool because f(a) = 2, f(d) = 1, and they’r
 Read a list of words and count the number of cool words.
 ## Input
 There will be at most 30 test cases. Each case begins with an integer n (1 ≤ n ≤ 30), the number of test cases. Following line will contain an integer m ( 1 ≤ n ≤ 10000), the number of words to check. Each of the following n lines contains a word containing at least one and at most 30 letters.
-##Output
+## Output
 For each test case, print the case number and the number of cool words.
 ### Sample Input
 2  
