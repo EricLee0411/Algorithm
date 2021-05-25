@@ -5,13 +5,13 @@ The first line of input contains one positive integer number, which is the numbe
 10^9).
 ## Output
 For each data set, write one line containing the corresponding natural number Q or ‘-1’ if Q does not exist.
-###Sample Input
+### Sample Input
 4  
 0  
 1  
 10  
 123456789
-###Sample Output
+### Sample Output
 0  
 1  
 25  
